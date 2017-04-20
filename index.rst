@@ -10,6 +10,7 @@ Welcome to test1's documentation!
    :maxdepth: 2
    
    helloworld
+   source/holoworld
 
 Indices and tables
 ==================
