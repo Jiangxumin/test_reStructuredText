@@ -11,6 +11,9 @@ Welcome to test1's documentation!
    
    helloworld
    source/holoworld
+   beginning/index
+   base/index
+   tool/index
 
 Indices and tables
 ==================
