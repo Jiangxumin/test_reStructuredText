@@ -8,10 +8,8 @@ Welcome to test1's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
    helloworld
-
-
 
 Indices and tables
 ==================
@@ -19,3 +17,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
