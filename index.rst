@@ -14,12 +14,12 @@ Welcome to test1's documentation!
    beginning/index
    base/index
    tool/index
+   manual/index
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
 
